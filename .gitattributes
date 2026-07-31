@@ -1,0 +1,4 @@
+*.md linguist-detectable=true
+*.md linguist-vendored=false
+*.md linguist-documentation=false
+*.md linguist-language=Shell
